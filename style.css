@@ -1,0 +1,41 @@
+#color-dot{
+    font-family: 'Bebas Neue', cursive;
+    color:  #fa804c;
+    font-size: 60px;
+    height: 60px;
+}
+#others{
+    margin-left: 130%;
+    font-family: 'Roboto', sans-serif;
+}
+#font-dot{
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+    font-size: 50px;
+    height: 60px;
+}
+.card-title{
+    font-family: 'Bebas Neue', cursive;
+}
+#font-col{
+    font-family: 'Bebas Neue', cursive;
+}
+.card-any{
+    font-family: 'Roboto', sans-serif;
+}
+.colors-all{
+    color: #fa804c;
+    margin-left: 20px;
+}
+#justify-change{
+    margin-left: 100px;
+    margin-bottom: 20px;
+}
+.img-edit{
+    margin-left: 20%;
+}
+#img-set{
+    margin-right: -10px;
+    height: 350px;
+    width: 490px;
+}
